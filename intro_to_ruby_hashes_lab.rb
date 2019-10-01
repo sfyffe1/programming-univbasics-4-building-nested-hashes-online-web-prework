@@ -5,9 +5,9 @@ def base_hash
 			:pieces
 			:rent_in_dollars=>
 			{
-				:one_piece_owned=> ,
-				:two_pieces_owned=> ,
-				:three_pieces_owned=> ,
+				:one_piece_owned=>
+				:two_pieces_owned=>
+				:three_pieces_owned=> 
 				:four_pieces_owned=>
 			},
 			:names=>
