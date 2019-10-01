@@ -10,7 +10,10 @@ def base_hash
 				:three_pieces_owned=> ,
 				:four_pieces_owned=>
 			},
-			
+			:names=>
+			{
+				:reading_railroad=>
+			}
 		}
 	}
 
